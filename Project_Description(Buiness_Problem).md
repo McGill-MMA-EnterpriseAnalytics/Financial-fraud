@@ -52,7 +52,7 @@ The successful implementation of this project will lead to several impactful out
 * Enhanced Cost Savings: Decrease financial losses and reduce the need for extensive manual fraud investigations.
 * Increased Customer Trust: Strengthen confidence in financial institutions by demonstrating a commitment to security.
 * Operational Efficiency Gains: Automate fraud detection processes, allowing financial institutions to scale fraud prevention efforts without proportional increases in operational costs.
-* 
+  
 Through these outcomes, this project aims to redefine fraud detection strategies and contribute to a safer financial landscape for businesses and consumers alike.
 
 **Conclusion**
